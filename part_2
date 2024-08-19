@@ -1,0 +1,11 @@
+Prompt engineering is the art of crafting creative questions and queries to get the most of AI machines .
+They are used to get a very clear and specific answer from and utilize the AI machines to the best of their potential. 
+
+Example of Vague prompt:  Give me a presentation on atoms.
+
+Improvement:  Write a presentation explaining the importance and relevance of atoms in the field of chemistry in a presentable and professional manner.
+
+Features of improvement 
+1.  Task is specific and clear.
+2. context is provided i.e  [ chemistry ]
+3. Role is highlighted i.e  [professional]

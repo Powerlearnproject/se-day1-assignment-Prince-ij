@@ -1,0 +1,44 @@
+Software engineering is a discipline that uses a systematic approach to producing high quality software software that meets user requirements.
+Importance of software engineering can be seen in the health, financial, educational sectors and the rest. It helps in creating reliable software products that aids the work of professionals in different sectors and also simplifies day to day activities of the common people.
+
+The first milestone was the creation of programming language, secondly was the creation of structured programming paradigms such as OOP and third is the introduction of software engineering as a discipline.
+The Software Development Life Cycle(SDLC) are as follows:
+Requirement Gathering: This is where user needs and feedbacks are gathered in order to make informed decision towards development of a software product, also system requirements are accessed in this level.
+Design: This is the process of creating a high level architecture of the program.
+Implementation:  This is when the actual coding is done.
+Testing :  This is where the software is tested to ensure it meets the requirements of the user and all parts are functioning as expected.
+Deployment: This is is the stage where the software is made available for users.
+Maintenance: The last stage for which software is reviewed, updated, bugs are fixed continuously.
+
+Waterfall Method        Vs        Agile   Method
+
+Waterfall Method is a sequential approach to software development while agile method is an iterative approach.
+Waterfall method is suitable for application that is not requiring frequent monitoring unlike agile method which is best for rapid changing and demanding applications.
+Waterfall method is best suited for system software while agile is suited for application software.
+
+
+Software Developer : Responsible for Implementing the code for the software product.
+
+Quality Assurance:   Responsible for Testing the application to ensure program meets user requirements. 
+The different testing could be integration test, unittest, system or acceptance test .
+
+Project Manager : Supervises the development, testing and deployment of the software ensuring the smoothness of the processes.
+
+
+Integrated Development Environments (IDEs) and Version Control Systems (VCS) are very important tools of a software engineer as they simplify the workflow and streamline the process of the development process, enhancing collaboration, effective time management and producing high quality software.  Examples of IDEs are Sublime, notepad++, IntelliJ , Netbeans etc while VCs include GitHub, Bitbucket etc.
+
+
+Challenges faced are :
+1. Tight Deadline 
+2. Technical Debts
+3. Changing requirements 
+Solution are:
+1. Effective time management.
+2. Communication 
+3. Agile methodologies.
+
+Unittest: This is testing that independent or single modules of code work as expected.
+Integration test: This is the process of ascertaining whether the code works together or some submodules  can communicate saliently without any isssues.
+System testing: This is the art of inspecting the System as a whole for detection of bugs.
+Acceptance testing: Testing to see whether the software meets the user requirements.
+
